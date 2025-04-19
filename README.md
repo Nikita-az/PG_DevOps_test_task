@@ -12,12 +12,16 @@
 ## Установка
 
 1. Клонируйте репозиторий:
+ ```
   git clone https://github.com/Nikita-az/PG_DevOps_test_task.git
   cd PG_DevOps_test_task
+ ```
 
 2. Установка зависимостей:
+  ```
   apt install python-pip3
   pip3 install paramiko
+  ```
 
 3. Настройте файл конфигурации config.py:
    # SSH configuration
